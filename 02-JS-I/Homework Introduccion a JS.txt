@@ -1,0 +1,12 @@
+Homework: Introducción a Javascript
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables: Es un espacio en memoria que se asiga para guardar algo, algun tipo de dato y poder utilizarnos nuevamente mas adelante
+y poder realizar todo tipo de operaciones con esto.
+Strings: Es un tipo de dato que corresponde a una cadera de caracteres, se deben ingresar entre comillas 
+Funciones (argumentos, return): las funciones son operaciones o procesos que se podran realizar todas las veces que sea necesario, 
+se puede invocar en cualquier momento y evita generar codigo repetitivo. Las funciones tienen argumentos que son los valores que deseas ingresar 
+para que la funcion haga sus operaciones o trabaje sobre ellos. Y return es la instruccion de salida, con la cual las funciones arrojan un resultado y terminan su proceso
+Declaraciones if: if es un operador de comparacion que verifica si la informacion ingresada es true o false y asi ejecutar una instruccion de ser necesario.
+Valores booleanos (true, false): Valores booleanos verdadero o falso que pueden ser asignados a una variable o que son arrojados como respues a una instruccion.
