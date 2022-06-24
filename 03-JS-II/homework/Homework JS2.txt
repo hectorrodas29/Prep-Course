@@ -1,0 +1,10 @@
+Homework: Javascript II
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras
+explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+for: es un bucle que evalua instrucciones una y otra vez hasta encontrar un dato o hasta un punto que sea indicado.
+&&, ||, !: Son operadores logicos para verificar dos o mas expresiones son verdaderas o no lo son. El operador logico && o "Y"
+evalua las expresiones y devolvera verdaderos solo si todas son verdaderas. 
+El operador || o "O" devolvera verdadero si al menos una de las expresiones es verdadera.
+El operador ! o "NO" es la negacion de una expresion, es decir que si una expresion es verdadera la convierta en falsa i viceversa.
