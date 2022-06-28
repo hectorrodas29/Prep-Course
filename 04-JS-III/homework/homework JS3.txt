@@ -1,0 +1,16 @@
+Homework: Javascript III
+
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Arrays
+
+Los array con tipo de datos que permite el almacenamiento de una coleccion de datos de cualquier tipo ( numerico, cadena de caracteres, booleanos, otros arreglos, funciones, etc)Los arreglos nos permiten almacenar y  administrar nuestros datos de forma ordenada, recorriendo nuestro arreglo y aplicando diversos metodos u operaciones sobre el.
+
+La manera de declarar un arreglo es 
+
+Var nuevoArreglo = [];
+
+y se pueden utilizar  metodos como .push para agregar un elemento al final del arreglo. .pop para eliminar un elemento al final.
+
+.unshift agrega un elemento al inicio del arreglo y .shift elimina el primer elemento del arreglo.
