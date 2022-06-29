@@ -1,0 +1,16 @@
+Homework: Javascript IV
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos: Un objeto es un contenedor de propiedades de algo, cualquier cosa puede ser un objeto, y lo que podemos hacer en JS
+es adicionar, modificar, reutilizar y eliminar estas propiedades para conseguir lo que necesitamos.
+Propiedades: Las propiedas de los objetos son conocidas como Key:Value, es decir que tiene un indicador y un valor asignado
+a ese indicador, de la misma forma que un arreglo tenia su indice numerico para la posicion y un valor.
+Métodos: Dentro de los objetos podremos tener todo tipo de dato numericos, cadenas de datos, arreglos, otros objetos pero ademas
+se pueden un objeto puede tener funciones que podran tomar acciones sobre el objeto y se podran re utilizar, estas funciones
+dentro de los objetos son llamadas metodos. 
+Bucle for…in: es un bucle que tienes JS para los objetos ya que como estos no cuentan con indice como los arreglos, con este 
+tipo de bucle que podra recorrer el objeto por medio de una clave y acceder a los valores de las propiedades.
+Notación de puntos vs notación de corchetes: son dos tipos de notaciones con las cuales se puede llamar las propiedas de una objeto
+cada una tiene sus beneficios, por ejemplo la notacion de puntos es sencilla e intuitiva mientras que la de corchetes es mas 
+especifica y puede ser usada para llamar variables.
