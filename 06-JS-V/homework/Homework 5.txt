@@ -1,0 +1,8 @@
+Homework: Javascript V
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+prototype:Es un propiedad  que tienen las clases para establecer un método una unica vez y dar acceso a él a cada objeto de esa clase 
+y asi minizar el uso de recursos de maquina evitando tener que crear los mismos métodos para cada objeto una y otra vez. Es importante usar la palabra clave "this" ya que con esta se apuntara al objeto que se este llamando
+
+Constructors (de Clases): Los constructores son plantillas que sirven para crear objetos con las mismas propiedades y/o métodos. 
